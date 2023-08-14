@@ -1,6 +1,6 @@
-# sushi_ui
+# Sushi UI
 
-A new Flutter project.
+A new Flutter project based on dummy data and certain animations.
 
 ## Getting Started
 
